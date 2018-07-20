@@ -1,0 +1,2 @@
+2018-07-19 12:45:47,698 INFO [org.apereo.cas.configuration.config.CasCoreBootstrapStandaloneConfiguration] - Configuration files found at [/etc/cas/config] are [[/etc/cas/config/application.properties]]
+2018-07-19 12:45:47,758 INFO [org.apereo.cas.configuration.config.CasCoreBootstrapStandaloneConfiguration] - Found and loaded [124] setting(s) from [/etc/cas/config]
